@@ -6,8 +6,9 @@ My ongoing home network for running self-hosted applications (like Nextcloud) an
 
 Currently still exploring more, these are just the main ones that I use regularly.
 
-- Nextcloud
-- Jellyfin
+- Grafana/Prometheus (Monitoring)
+- Nextcloud (Online Storage, Calendar, Tasks, etc.)
+- Jellyfin (Music, Movies, Media)
 - Own stuff
   - Static websites (eg. portfolio website, blog posts, resume, etc.)
 
