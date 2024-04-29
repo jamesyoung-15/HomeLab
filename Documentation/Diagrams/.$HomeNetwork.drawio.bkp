@@ -1,4 +1,4 @@
-<mxfile modified="2024-04-29T05:33:59.214Z" host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/118.0.5993.159 Electron/27.2.3 Safari/537.36" etag="9aQJQYTdYBmNbcv45ECR" version="22.0.3" type="device">
+<mxfile modified="2024-04-29T05:33:41.251Z" host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/118.0.5993.159 Electron/27.2.3 Safari/537.36" etag="MjOTB_NfbmtdX_9Bxclt" version="22.0.3" type="device">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
     <mxGraphModel dx="5309" dy="3243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -71,7 +71,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yZKaxwQQT-WuNb40sk2B-1" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;VLANS&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=8;shadow=1;glass=0;dashed=1;comic=0;strokeColor=#d6b656;strokeWidth=3;fillColor=#fff2cc;fontSize=28;align=left;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;fontStyle=3;container=1;collapsible=0;recursiveResize=0;dashPattern=4 3 4 3 4 3 36 3;fontFamily=Titillium Web;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DTitillium%2BWeb;absoluteArcSize=1;" parent="1" vertex="1">
-          <mxGeometry x="1540" y="-207.5" width="440" height="367.5" as="geometry" />
+          <mxGeometry x="710" y="-57.5" width="440" height="367.5" as="geometry" />
         </mxCell>
         <mxCell id="yZKaxwQQT-WuNb40sk2B-6" value="&lt;b style=&quot;font-size: 25px;&quot;&gt;VLAN &lt;font face=&quot;Titillium Web&quot; style=&quot;line-height: 0; font-size: 25px;&quot;&gt;10&lt;/font&gt;&lt;/b&gt;&amp;nbsp;- Management - 10.15.&lt;font face=&quot;Titillium Web&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;font-size: 25px; line-height: 0;&quot;&gt;10&lt;/b&gt;&lt;/font&gt;.0&amp;nbsp;&lt;b style=&quot;font-size: 25px;&quot;&gt;&lt;font face=&quot;Titillium Web&quot; style=&quot;line-height: 0; font-size: 25px;&quot;&gt;/24&lt;/font&gt;&lt;/b&gt;" style="ellipse;html=1;aspect=fixed;strokeColor=#6c8ebf;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#6c8ebf;fontSize=25;fontFamily=Roboto Condensed;" parent="yZKaxwQQT-WuNb40sk2B-1" vertex="1">
           <mxGeometry x="10" y="70" width="15" height="15" as="geometry" />
@@ -536,7 +536,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yZKaxwQQT-WuNb40sk2B-510" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Titillium+Web&quot;&gt;Wifi Devices&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=8;shadow=1;glass=0;dashed=1;comic=0;strokeWidth=3;fontSize=22;align=left;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;fontStyle=2;horizontal=1;spacingLeft=15;connectable=1;container=1;collapsible=0;recursiveResize=0;dashPattern=4 3 4 3 4 3 36 3;spacingRight=15;sketch=0;fillStyle=auto;fillColor=#f5f5f5;strokeColor=#666666;absoluteArcSize=1;fontFamily=Helvetica;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="740" y="-30" width="640" height="370" as="geometry" />
+          <mxGeometry x="1230" y="-100" width="640" height="370" as="geometry" />
         </mxCell>
         <mxCell id="yZKaxwQQT-WuNb40sk2B-526" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Titillium+Web&quot;&gt;Trusted&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=8;shadow=1;glass=0;dashed=1;comic=0;strokeWidth=3;fontSize=22;align=left;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;fontStyle=2;horizontal=1;spacingLeft=15;connectable=1;container=1;collapsible=0;recursiveResize=0;dashPattern=4 3 4 3 4 3 36 3;spacingRight=15;sketch=0;fillStyle=auto;fillColor=#e1d5e7;strokeColor=#9673a6;absoluteArcSize=1;fontFamily=Helvetica;" parent="yZKaxwQQT-WuNb40sk2B-510" vertex="1">
           <mxGeometry x="30" y="90" width="150" height="203" as="geometry" />
