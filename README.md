@@ -9,14 +9,14 @@ Currently still exploring more, these are just the main ones that I use regularl
 - Grafana/Prometheus (Monitoring)
 - Nextcloud (Online Storage, Calendar, Tasks, etc.)
 - Jellyfin (Music, Movies, Media)
+- Gitlab (Git Repo)
+- Nginx (Reverse Proxy)
+- Wireguard (VPN)
 - Own stuff
   - Static websites (eg. portfolio website, blog posts, resume, etc.)
+  - OpenFaas
 
 ## Overall Network
-
-The basic idea is that for accessing the home server outside of my local network, I use a VPS connected to my home server via Wireguard to access services externally if needed. I use Nginx as my reverse proxy in this scenario. This way I don't have to directly expose my network but rather tunnel my traffic through the VPS.
-
-Most of my services are hosted on Proxmox through LXC or VM. See diagram below for a general idea of my home server.
 
 Incomplete diagram below:
 
