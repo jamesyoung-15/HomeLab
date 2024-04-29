@@ -28,12 +28,20 @@ My own notes are in [documentation folder](./Documentation/).
 
 ### Helpful Resources
 
-- Homeserver/Homelab/Self-hosted Forums:
+- My Fav Forums:
   - Subreddits:
+    - [Selfhosted](https://www.reddit.com/r/selfhosted/)
+    - [Homelab](https://www.reddit.com/r/homelab/)
+    - [Homeserver](https://www.reddit.com/r/HomeServer/)
+    - [Minilab](https://www.reddit.com/r/minilab/)
+    - [HomeNetwork](https://www.reddit.com/r/HomeNetworking)
   - Lemmy Forums:
-- Guides:
-  - [Setup Nextcloud](https://www.youtube.com/watch?v=N5S3w-Z9Xvw&t=1171s)
-- Youtube Channels:
+    - Selfhosted
+- Some Homelab Youtube Channels:
   - [Lawrence Systems](https://www.youtube.com/@LAWRENCESYSTEMS)
+  - [Home Network Guy](https://www.youtube.com/@homenetworkguy)
   - [Techno Tim](https://www.youtube.com/results?search_query=technotim)
-  - Many more
+  - [Christian Lempa](https://www.youtube.com/@christianlempa)
+  - [Linus Tech Tips](https://www.youtube.com/@LinusTechTips)
+  - [apalrd's adventures](https://www.youtube.com/@apalrdsadventures)
+  - [MRP](https://www.youtube.com/@MRPtech)
