@@ -5,18 +5,11 @@ $CONFIG = array (
   'trusted_domains' => 
   array (
     0 => 'localhost',
-    1 => '10.15.15.141',
-    2 => '10.15.15.103',
-    3 => 'nextcloud.jyylab.xyz',
-    4 => '10.15.15.1',
-    5 => '10.15.15.100',
-    6 => 'nextcloud.jyylab.com',
-  ),
-  'trusted_proxies'=>
-  array (
-    0 => '10.15.15.1',
-    1 => '10.15.15.141',
-    2 => '10.15.15.100',
+    // below is IP of nextcloud
+    1 => '10.15.10.103',
+    # replace below with own sub domains
+    2 => 'nextcloud.mydomain.xyz',
+    3 => 'nextcloud.mydomain.com',
   ),
   'datadirectory' => '/var/www/nextcloud-data',
   'dbtype' => 'mysql',
