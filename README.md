@@ -1,30 +1,36 @@
-# My Home Server
+# My Home Lab
 
-My ongoing home network for running self-hosted applications (like Nextcloud) and storing other projects (eg. own static websites, etc.).
+My ongoing home lab/server for learning and running self-hosted applications (Nextcloud, Jellyfin, etc).
 
 ## Self-hosted Services
 
-Currently still exploring more, these are just the main ones that I use regularly.
+Currently still exploring more.
 
-- Grafana/Prometheus (Monitoring)
+Main Services Used:
+
 - Nextcloud (Online Storage, Calendar, Tasks, etc.)
 - Jellyfin (Music, Movies, Media)
-- Gitlab (Git Repo)
-- Nginx (Reverse Proxy)
+- HomeAssistant (Smart Home)
+- Unifi Controller (Control Unifi Network Equipment)
 - Wireguard (VPN)
-- Own stuff
-  - Static websites (eg. portfolio website, blog posts, resume, etc.)
-  - OpenFaas
+- Selfhosted Gitlab (Git Repo)
+- Selfhosted Github Runners (Github Actions)
+- Nginx (Reverse Proxy)
+- Own stuff/projects
+  - Web Dev Projects (eg. portfolio website, blog, etc.)
+  - ML Projects (logo remover, image impainting, etc.)
 
 ## Overall Network
 
-Incomplete diagram below:
+Basic overview diagram below:
 
 ![Diagram](./Documentation/Diagrams/HomeNetwork.drawio.png)
 
 ## Own Documentation
 
-My own notes are in [documentation folder](./Documentation/).
+My own notes are in [documentation folder](./Documentation/):
+
+- Hardware Connections (ie. ports, switches) [here](./Documentation/Diagrams/HardwareConnections.drawio.png)
 
 ### Helpful Resources
 
